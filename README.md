@@ -1,2 +1,2 @@
 # git_practice
-練習①
+練習
